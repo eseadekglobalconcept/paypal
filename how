@@ -1,0 +1,60 @@
+[33mcommit 0fe3c33283666bd985b7b050c0a1d711a1a77c1c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 080450a 983d4dc
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 20:26:05 2023 +0000
+
+    merge conflict resolved
+
+[33mcommit 080450a16352d0845d532416ceccbc57f3136647[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 19:29:38 2023 +0000
+
+    .net master apps
+
+[33mcommit 983d4dcc3f7942969699ac9a33ef90d2dd72c4d8[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 19:23:57 2023 +0000
+
+    NodeJS apps
+
+[33mcommit da917b8cc6c9d120829728d383f50bba60edb5fa[m[33m ([m[1;31mpay/master[m[33m, [m[1;31mpay/development[m[33m)[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 18:36:30 2023 +0000
+
+    dev commit 1
+
+[33mcommit f211e0af8dfe6aa22e7b17c1f9d0279cce1cf842[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 17:35:17 2023 +0000
+
+    Great indeed
+
+[33mcommit 0f25d664470a101bee70cc1ba040f242419fe5f8[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 17:22:48 2023 +0000
+
+    fantastic application
+
+[33mcommit 0a81e113dc8bbd9579b85929acf08019c9a28571[m
+Author: BRAVOLIA <126309702+BRAVOLIA@users.noreply.github.com>
+Date:   Fri Mar 31 18:07:34 2023 +0100
+
+    Update userMgt.java
+
+[33mcommit 53924e6dfb3c4d56c41d4482d6307642a871269a[m
+Author: BRAVOLIA <126309702+BRAVOLIA@users.noreply.github.com>
+Date:   Fri Mar 31 17:54:55 2023 +0100
+
+    Update userMgt.java
+
+[33mcommit be1a690b486a05a3d7967f57c1268c43f16236c4[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 16:13:43 2023 +0000
+
+    second commit
+
+[33mcommit de69c4f3157048b8d6d90eb3dc8988fe3858df61[m
+Author: Bravo <bravolufade@gmail.com>
+Date:   Fri Mar 31 14:53:07 2023 +0000
+
+    this is my 1st commit
