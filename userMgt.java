@@ -6,5 +6,4 @@ debby
 hephzy
 busayo
 jagaban
-manager
-obi
+favour
